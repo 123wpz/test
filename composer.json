@@ -1,0 +1,13 @@
+{
+    "name": "qh4-module/test",
+    "description": "测试模块",
+    "authors": [
+        {
+            "name": "123wpz",
+            "email": "wangzhengyutop@gmail.com"
+        }
+    ],
+    "require": {},
+    "license": "MIT",
+    "minimum-stability": "dev"
+}
