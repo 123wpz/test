@@ -16,7 +16,7 @@ class ExtTest extends External
     /**
      * 生成id,默认使用雪花算法随机生成
      * 有些特定的业务场景,id需要按照一定规则生成,所以预留了该函数
-     * 注意数据表id字段最大64位
+     * 注意数据表id字段最大64位1
      * @return string
      */
     public function generateId()
